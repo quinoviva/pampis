@@ -1,4 +1,5 @@
-MEDICAL EMERGENCY ASSISTANCE APPLICATION
+PROJECT NAME: EMERGENCY RESPONSE
+
 Project description:
 -To enhance the advancement usage of emergency hotlines and make instant necessary calls
 
